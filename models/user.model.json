@@ -1,0 +1,74 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Aitana",
+      "apellidos": "Alonso Lorenzo",
+      "edad": 18,
+      "username": "aitana01",
+      "password": "contraseña_segura"
+    },
+    {
+      "nombre": "Carlos",
+      "apellidos": "Fernández Ruiz",
+      "edad": 30,
+      "username": "carlos30",
+      "password": "clave_secreta"
+    },
+    {
+      "nombre": "Elena",
+      "apellidos": "Martínez Gómez",
+      "edad": 28,
+      "username": "elena28",
+      "password": "pass_oculto"
+    },
+    {
+      "nombre": "Javier",
+      "apellidos": "Sánchez Torres",
+      "edad": 32,
+      "username": "javier32",
+      "password": "mi_password"
+    },
+    {
+      "nombre": "Lucía",
+      "apellidos": "Díaz Herrera",
+      "edad": 27,
+      "username": "lucia27",
+      "password": "acceso_lucia"
+    },
+    {
+      "nombre": "Mario",
+      "apellidos": "Rodríguez Pérez",
+      "edad": 29,
+      "username": "mario29",
+      "password": "superclave"
+    },
+    {
+      "nombre": "Sofía",
+      "apellidos": "Gómez Vázquez",
+      "edad": 26,
+      "username": "sofia26",
+      "password": "password_sofia"
+    },
+    {
+      "nombre": "Alejandro",
+      "apellidos": "Navarro Ruiz",
+      "edad": 31,
+      "username": "alejandro31",
+      "password": "seguro_alejandro"
+    },
+    {
+      "nombre": "Raquel",
+      "apellidos": "Ortega Sánchez",
+      "edad": 24,
+      "username": "raquel24",
+      "password": "raquel_clave"
+    },
+    {
+      "nombre": "Diego",
+      "apellidos": "López Martín",
+      "edad": 33,
+      "username": "diego33",
+      "password": "pass_seguro"
+    }
+  ]
+}
